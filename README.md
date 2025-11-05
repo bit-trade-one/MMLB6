@@ -7,8 +7,7 @@
 
 ## [製品HP](リンク) 
 
-## [製品HP](リンク) 
-#アプリはこちら！(https://github.com/bit-trade-one/MMLB6/)  
+## [アプリはこちら！](App)  
 
 ## [ファイルダウンロード・説明サイト（GitHub）](https://github.com/bit-trade-one/MMLB6/)  
 
