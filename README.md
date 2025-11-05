@@ -2,7 +2,7 @@
 
 ## 模型電飾用USB給電式小型基板「模型電光」
 ![](https://bit-trade-one.co.jp/modmagic/wp-content/uploads/sites/12/2025/10/image-768x768.png)
-## [紹介動画](https://www.youtube.com/watch?v=SffNCzrjizY)
+## [紹介動画(Youtube)](https://www.youtube.com/watch?v=SffNCzrjizY)
 
 **「模型電光」は模型や小型ディスプレイ作品に最適な超小型LED制御基板です。**
 
