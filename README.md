@@ -5,7 +5,7 @@
 ![](画像)
  
 
-## [製品HP](リンク) 
+## [製品HP](https://bit-trade-one.co.jp/modmagic/mokeidenko/) 
 
 ## [アプリはこちら！](App)  
 
