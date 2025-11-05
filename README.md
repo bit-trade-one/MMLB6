@@ -20,7 +20,7 @@
 
 ## [製品HP](https://bit-trade-one.co.jp/modmagic/mokeidenko/) 
 
-## [使用方法はこちら！](https://bit-trade-one.co.jp/mmlb_manual/)
+## [使用方法はこちら！](https://bit-trade-one.co.jp/modmagic/mokeidenko/mmlb/mmlb_manual/)
 
 ## [アプリはこちら！](App/MMLB6_v11_Installer.exe)  
 
@@ -45,3 +45,9 @@
     【内容物】 本体、保証書、基板固定用粘着剤
     【保証期間】 6ヶ月
     【生産国】 日本
+
+## 紹介・レビュー
+
+[「HOBBY Watch」様 / 「ビット・トレード・ワンの小型LED制御基板「模型電光」で遊ぶ！」](https://hobby.watch.impress.co.jp/docs/review/2055508.html)
+
+[「HOBBY Watch」様 / 「誰でも簡単にできる！　プラモやフィギュアに発光ギミックを搭載できる「模型電光」使い方ガイド」](https://hobby.watch.impress.co.jp/docs/special/2057099.html)
