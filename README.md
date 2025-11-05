@@ -2,7 +2,6 @@
 
 ## 模型電飾用USB給電式小型基板「模型電光」
 ![](https://bit-trade-one.co.jp/modmagic/wp-content/uploads/sites/12/2025/10/image-768x768.png)
-![](youtube.com/watch?v=SffNCzrjizY)
 
 「模型電光」は模型や小型ディスプレイ作品に最適な超小型LED制御基板です。
 
@@ -19,11 +18,17 @@
 
 ## [製品HP](https://bit-trade-one.co.jp/modmagic/mokeidenko/) 
 
+## [使用方法はこちら！](https://bit-trade-one.co.jp/mmlb_manual/)
+
 ## [アプリはこちら！](App)  
 
-##[使用方法はこちら！](https://bit-trade-one.co.jp/mmlb_manual/)
+### [アプリソース](App_source)
 
-## [ファイルダウンロード（GitHub）](https://github.com/bit-trade-one/MMLB6/)  
+### [ファームウェア](Firmware)
+
+### [ファームウェアソース](Firmware_source)
+
+### [回路図](Schematics/20250430sch.pdf)
 
 ## [FAQ](FAQ.md)
 
