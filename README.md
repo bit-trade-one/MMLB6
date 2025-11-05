@@ -2,7 +2,6 @@
 
 ## 模型電飾用USB給電式小型基板「模型電光」
 ![](https://bit-trade-one.co.jp/modmagic/wp-content/uploads/sites/12/2025/10/image-768x768.png)
-** [紹介動画(Youtube)](https://www.youtube.com/watch?v=SffNCzrjizY)**
 
 **「模型電光」は模型や小型ディスプレイ作品に最適な超小型LED制御基板です。**
 
@@ -16,6 +15,8 @@
 誰でも自由に改変・再配布が可能です。基板だけではなく、各種スイッチやLED等アクセサリも同時発売。
 
 一式揃ったスターターキットはこれから電飾を始める方に最適の内容となっています。
+
+## [紹介動画(Youtube)](https://www.youtube.com/watch?v=SffNCzrjizY)
 
 ## [製品HP](https://bit-trade-one.co.jp/modmagic/mokeidenko/) 
 
