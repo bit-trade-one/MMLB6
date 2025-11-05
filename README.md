@@ -20,13 +20,13 @@
 
 ## [使用方法はこちら！](https://bit-trade-one.co.jp/mmlb_manual/)
 
-## [アプリはこちら！](App)  
+## [アプリはこちら！](App/MMLB6_v11_Installer.exe)  
 
-### [アプリソース](App_source)
+### [アプリソース](App_source/PCApp_CT_v11.zip)
 
 ### [ファームウェア](Firmware)
 
-### [ファームウェアソース](Firmware_source)
+### [ファームウェアソース](Firmware_source/FWver004_20251006.zip)
 
 ### [回路図](Schematics/20250430sch.pdf)
 
