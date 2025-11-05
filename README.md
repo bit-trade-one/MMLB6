@@ -1,8 +1,8 @@
 # MMLB6
 
 ## MMLB6 LED制御基板
-
 ![](https://bit-trade-one.co.jp/modmagic/wp-content/uploads/sites/12/2025/10/image-768x768.png)
+
 「模型電光」は模型や小型ディスプレイ作品に最適な超小型LED制御基板です。
 
 最大6点のLEDと1点のスイッチを接続することができ、USB Type-C でパソコンと接続することで専用アプリから点滅・明滅・ゆらぎ・回転灯など多彩な発光パターンをLED毎に設定できます。
