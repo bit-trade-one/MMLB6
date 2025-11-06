@@ -1,0 +1,4 @@
+・ファームウェア開発環境
+Microchip MPLAB IDE v8.92
+Microchip MPLAB C18 v3.43
+
