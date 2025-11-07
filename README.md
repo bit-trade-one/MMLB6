@@ -24,13 +24,13 @@
 
 ## [アプリはこちら！](App/MMLB6_v11_Installer.exe)  
 
-### [アプリソース](App_source/PCApp_CT_v11.zip)
+#### [アプリソース](App_source/PCApp_CT_v11.zip)
 
-### [ファームウェア](Firmware)
+#### [ファームウェア](Firmware)
 
-### [ファームウェアソース](Firmware_source/FWver004_20251006.zip)
+#### [ファームウェアソース](Firmware_source/FWver004_20251006.zip)
 
-### [回路図](Schematics/20250430sch.pdf)
+#### [回路図](Schematics/20250430sch.pdf)
 
 ## [FAQ](FAQ.md)
 
@@ -45,6 +45,12 @@
     【内容物】 本体、保証書、基板固定用粘着剤
     【保証期間】 6ヶ月
     【生産国】 日本
+    【アプリ開発環境】
+        Visual Studio 2010
+        開発言語 C#
+    【ファームウェア開発環境】
+        MPLAB IDE v8.92 
+        MPLAB C18 v3.43
 
 ## 紹介・レビュー
 
