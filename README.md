@@ -24,7 +24,7 @@
 
 ## [アプリのダウンロードリンクはこちら！](https://bit-trade-one.co.jp/product/modmagic/mmlb6/MMLB6_v11_Installer.exe)
 
-#### [アプリソース](App/MMLB6_v11_Installer.exe)
+#### [アプリ](App/MMLB6_v11_Installer.exe)
 
 #### [アプリソース](App_source/PCApp_CT_v11.zip)
 
