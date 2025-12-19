@@ -22,7 +22,9 @@
 
 ## [使用方法はこちら！](https://bit-trade-one.co.jp/modmagic/mokeidenko/mmlb/mmlb_manual/)
 
-## [アプリはこちら！](App/MMLB6_v11_Installer.exe)  
+## [アプリはこちら！](https://bit-trade-one.co.jp/product/modmagic/mmlb6/MMLB6_v11_Installer.exe)
+
+#### [アプリソース](App/MMLB6_v11_Installer.exe)
 
 #### [アプリソース](App_source/PCApp_CT_v11.zip)
 
